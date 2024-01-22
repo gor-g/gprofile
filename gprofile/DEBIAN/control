@@ -1,0 +1,8 @@
+Package: gprofile
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libopencv-dev (>= 2.4)
+Maintainer: Gor G. <gg@gorg.fr>
+Description: Crop out square profile pictures from an image using the biggest face detected in the image. 
