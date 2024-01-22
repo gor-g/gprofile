@@ -1,6 +1,6 @@
 # gprofile
 
-A command line tool to out square profile pictures from an image using the biggest face detected in the image (Assuming that people take their pictures while standing in the foreground). 
+A command line tool to crop out square profile pictures from an image using the biggest face detected in the image (Assuming that people take their pictures while standing in the foreground). 
 
 ## Maintenance note
 
